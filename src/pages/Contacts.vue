@@ -5,7 +5,10 @@ export default {
 </script>
 
 <template>
-  <h1>Sono pagina Contacts di Simone</h1>
+  <h1>Sono pagina Contacts di Simone e Massimo</h1>
+  <form action="">
+    <input type="text">
+  </form>
 </template>
 
 <style scoped></style>
