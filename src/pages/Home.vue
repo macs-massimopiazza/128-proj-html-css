@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-  <h1>Sono pagina home</h1>
+  <h1>Sono una pagina home</h1>
 </template>
 
 <style scoped>
