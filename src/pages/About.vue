@@ -1,13 +1,11 @@
 <script>
 export default {
-  name: 'About'
-}
+  name: "About",
+};
 </script>
 
 <template>
-  <h1>Sono pagina About</h1>
+  <h1>Sono pagina SUPER IMPORTANTE E FICHISSIMA</h1>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
