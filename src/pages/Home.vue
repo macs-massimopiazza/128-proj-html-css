@@ -1,7 +1,7 @@
 <script>
 export default {
-  name: 'Home'
-}
+  name: "Home",
+};
 </script>
 
 <template>
@@ -9,6 +9,4 @@ export default {
   <h2>Vero è proprio bello</h2>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
